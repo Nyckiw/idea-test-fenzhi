@@ -8,5 +8,6 @@ public class test {
         System.out.println("master改了");
         System.out.println("hot改了");
         System.out.println("测试github");
+        System.out.println("测试github22222");
     }
 }
