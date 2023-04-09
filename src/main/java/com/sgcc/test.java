@@ -5,5 +5,6 @@ public class test {
         System.out.println(11);
         System.out.println(22);
         System.out.println("hot commit");
+        System.out.println("hot改了");
     }
 }
